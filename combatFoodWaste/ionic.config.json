@@ -1,0 +1,7 @@
+{
+  "name": "combatFoodWaste",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
